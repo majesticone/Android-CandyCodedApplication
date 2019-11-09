@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="75348347-20ae-42aa-9dec-b1547594d2a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +20,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="92011c44382a244a" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -25,15 +29,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="323">
               <caret line="89" column="34" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
               <folding>
                 <element signature="e#1513#1880#0" expanded="true" />
                 <element signature="e#1879#1880#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -47,6 +82,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" />
       </list>
     </option>
   </component>
@@ -80,6 +117,23 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="candycoded" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Android-CandyCodedApplication" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="candycoded" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-CandyCodedApplication" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="Android-CandyCodedApplication" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -103,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -114,6 +168,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -182,6 +252,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
       </list>
     </recent_temporary>
@@ -199,6 +270,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_1_StartTheStoreInformationActivity - 2019.11.09 at 17h 19m 43s.xml">
+      <configuration name="_1_StartTheStoreInformationActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 17h 42m 37s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 17h 48m 55s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 17h 51m 38s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 17h 56m 28s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 17h 56m 36s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 18h 10m 12s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 18h 10m 45s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 18h 14m 06s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 18h 14m 25s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -210,6 +313,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.36157337" />
@@ -220,17 +324,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Run" weight="0.3289689" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Debug" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.36988544" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.41080198" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.41080198" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Preview" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -238,14 +343,39 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="323">
           <caret line="89" column="34" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
           <folding>
             <element signature="e#1513#1880#0" expanded="true" />
             <element signature="e#1879#1880#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
         </state>
       </provider>
     </entry>
